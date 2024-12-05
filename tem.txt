@@ -1,3 +1,2 @@
 Day shatters
-city
-chennai
+city bangalore
